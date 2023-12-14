@@ -1,13 +1,17 @@
 # JPeG
 Note: Group E-Commerce, JPeG, Merchandise based business
 
-Website Task Distribution:
+Website Task Distribution:-
 
-1. Homepage - Person 1
-2. Product Category - Abu Zharr
-3. Product Details - Abu Zharr
-4. Shopping Cart Feature - Person 2
-5. About Us - Person 3
-6. Payment Checkout - Person 2
-7. Contact Us - Person 3
-8. Policies Page - Person 5
+Choose your pages:
+
+1. Homepage - Azim
+2. Product Category + Product Details - Abu Zharr
+3. Shopping Cart Feature + Payment Checkout - Afif
+4. About Us + Contact Us + Header + Footer - Afnan
+5. Policies Page - Peshal
+
+Product Designer:
+
+1. Peshal
+2. Azim
